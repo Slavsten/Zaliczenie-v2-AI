@@ -1,84 +1,22 @@
-# Nuxt 3 Minimal Starter
+Projekt Zaliczeniowy na zajęcia Sztuczna inteligencja i Zaawansowane aplikacje internetowe
+Daniel Stenka 63491 ININ6_FD1
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.  
-Projekt: Blog z AI Django  
-Wymagania:
-- komponenty
-- fetch
-- bulma
-- scss
-- :deep
-- routing
-- git :)
+Aplikacja do Wyszukiwania Obrazów
+Przegląd
+Ta aplikacja do wyszukiwania obrazów pozwala użytkownikom wyszukiwać obrazy przy użyciu API Pixabay. Aplikacja została zbudowana przy użyciu Vue.js oraz Bulma. 
+Użytkownicy mogą wpisać zapytanie wyszukiwania (w języku angielskim), a aplikacja wyświetli galerię obrazów na podstawie wprowadzonego zapytania.
 
-## Setup
 
-Make sure to install the dependencies:
+Jak Uruchomić
+Sklonować repozytorium:
+git clone https://github.com/Slavsten/Zaliczenie-v2-AI.git
 
-```bash
-# npm
+cd Zaliczenie-v2-AI
+
+Zainstalować dependencie:
 npm install
 
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
+Uruchomić serwer deweloperski:
 npm run dev
 
-# pnpm
-pnpm run dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+serwer deweloperski  http://localhost:3000:
