@@ -6,6 +6,7 @@ Użytkownicy mogą wpisać zapytanie wyszukiwania (w języku angielskim), a apli
 
 
 Jak Uruchomić
+
 Sklonować repozytorium:
 git clone https://github.com/Slavsten/Zaliczenie-v2-AI.git
 
